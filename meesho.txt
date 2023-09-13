@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meesho</title>
+</head>
+<body>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+<div style="display: flex; flex-direction: row;gap: 80px;">
+        <img src="c:\Users\user\Downloads\meesho.png" alt=" " width="150px" height="120px">
+  <img src="c:\Users\user\Downloads\149852.png.crdownload" alt=""> 
+  <div style="padding: 25px;"><input type="items" placeholder="Try sarees kurthis or search with product code" ></div>
+  <div>
+  <img src="c:\Users\user\Downloads\download (4).png" alt="" width="50px" height="50px">
+  <div>download app</div>
+  </div>
+  <div style="padding: 25px;">Become a supplier</div>
+  <div>
+  <img src="c:\Users\user\Downloads\download.png" alt="" width="50px" height="50px"></img>
+  <div>Profile</div>
+  </div>
+  <div>
+  <img src="c:\Users\user\Downloads\download (2).png" alt="" width="50px" height="50px">
+  <div>Cart</div>
+  </div>
+</div>
+<div style="border: 2px black solid; gap: 20px;padding-bottom: 10px ;"></div>
+<div style="display: flex; flex-direction: row;gap: 80px;">
+    <div>Women Ethnic</div>
+    <div>Women Western</div>
+    <div>Men</div>
+    <div>Kids</div>
+    <div>Home&Kitchen</div>
+    <div>Baby&health</div>
+    <div>jewellery&Accessories</div>
+    <div>footwear</div>
+    <div>Electronics</div>
+</div>
+<div style="border: 2px black solid; gap: 50px;"></div>
+<div style="display: flex; flex-direction:row">
+    <!-- div style="font-size: 40px; display: flex; flex-direction: row; "><b>lowest price<br>Best Quality shopping</div> -->
+    <img src="https://images.meesho.com/images/marketing/1687149525469_512.webp" alt="" style="display: flex;flex-direction: row; "> 
+    <!-- 
+     -->
+     <div style="float: right;"> 
+        <div style="background-color: rgb(236, 227, 227);width: 450px;height: 305px;padding:20px;">
+            <div style="font-size: 35px;"><b>Lowest Price<br>Best Quality Shopping</b></div>
+        <div>
+            <div>
+                <img src="https://images.meesho.com/images/pow/freeDelivery_jamun.svg">
+                <div>Free Delivery</div>
+            </div>
+        
+            <div >
+                <img src="https://images.meesho.com/images/pow/cod_jamun.svg">
+                <div>Cash on Delivery</div>
+            </div>
+        
+            <div>
+                <img src="https://images.meesho.com/images/pow/easyReturns_jamun.svg">
+                <div>Easy Returns</div>
+            </div>
+        </div>
+        <div style="display: flex;flex-direction:row;align-items: center ;justify-content: center;padding: 20px;">
+        <button style="background-color: violet;display: flex;flex-direction: row;align-items: center;justify-content: center;border: violet solid;">
+            <img src="https://images.meesho.com/images/pow/playstoreSmallIcon.png" alt="">
+        Download Meesho App
+        <button>
+            <div style="margin: 20px;"></div>
+            <div style="background-color: bisque;display:flex;align-items: center;justify-content: center">
+    <div >
+        <img src="https://images.meesho.com/images/marketing/1678691686252_400.webp" >
+       <img src="https://images.meesho.com/images/marketing/1678691699680_300.webp">
+       <img src="https://images.meesho.com/images/marketing/1678691712594_300.webp">
+    </div> 
+            </div>  
+</div>        
+</div>
+</body>
+</html>
